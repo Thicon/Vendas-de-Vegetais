@@ -1,3 +1,5 @@
+--------- README antigo. Será atualizado ---------
+
 # **Análise de dados - Vendas de vegetais de um supermercado**
 
 Neste notebook temos 4 bases com dados de um supermercado, referentes a vendas de vegetais. Nessas bases há dados como: categorias, ids, data de venda, nome do produto, se foi vendido ou não, entre outros.
